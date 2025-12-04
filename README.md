@@ -1,2 +1,2 @@
 # Captain Igloo
-My goldfish called Captain Igloo. First GitHub repo
+My goldfish called Captain Igloo. First GitHub repo.
